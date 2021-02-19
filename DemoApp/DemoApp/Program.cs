@@ -6,7 +6,7 @@ namespace DemoApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Created a branch and checked out! ");
         }
     }
 }
